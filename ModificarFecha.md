@@ -1,4 +1,5 @@
-# adadwd
+# PowerShell cambiar Fecha/hora
+
 Inicio
 --> escribir PowerShell
 ----> botón derecho mouse sobre "Windows PowerShell"
